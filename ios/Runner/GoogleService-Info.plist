@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>687953940662-h74usq2ic5o6oudkdaif9d8rrq1ms9jl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.687953940662-h74usq2ic5o6oudkdaif9d8rrq1ms9jl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD5IwPVQanxYqUf_tLkl4Jt7_CBno6u2po</string>
+	<key>GCM_SENDER_ID</key>
+	<string>687953940662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.runnerstory</string>
+	<key>PROJECT_ID</key>
+	<string>teling-app-70678</string>
+	<key>STORAGE_BUCKET</key>
+	<string>teling-app-70678.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:687953940662:ios:ae4d85e3f151438fb3d617</string>
+	<key>DATABASE_URL</key>
+	<string>https://teling-app-70678.firebaseio.com</string>
+</dict>
+</plist>
